@@ -23,7 +23,7 @@ Highly experienced .NET Solutions Architect with strong technical skills in C#, 
 * Expert Knowledge of Angular, Knockout, and various JavaScript libraries.
 
 
-```markdown
+
 ### Technical Skills
 | Skill Area        | Description          | 
 |:-------------|:------------------|
@@ -36,7 +36,7 @@ Highly experienced .NET Solutions Architect with strong technical skills in C#, 
 | Databases | SQL Server 2005/2008R2/2012, MS Access 20, Oracle 10g | 
 | Tools | Microsoft Office, Microsoft Visio, Subversion, Team Foundation Server | 
 | Operating Systems |  Window Server 2003/2008R2/2012/2016, Windows XP, Windows 7, Windows 8, Windows 10 | 
-```
+
 ### Education
 _Bachelor’s Degree_, B.S Computer Science from **George Mason University**, Fairfax, VA.
 
