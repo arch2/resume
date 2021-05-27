@@ -26,7 +26,7 @@ Highly experienced .NET Solutions Architect with strong technical skills in C#, 
 
 ### Technical Skills
 | Skill Area        | Description          | 
-|:-------------|:------------------|
+|:---:|:---:|
 | Programming Languages | C#, VB,VB.NET, C, C++, HTML, DHTML, CSS, XML, XSL, XSLT, T-SQL, PL/SQL | 
 |  Scripting Languages/Libraries |  JavaScript, Angular, Knockout, jQuery, PowerShell, Bash | 
 | Web Technologies  | Dreamweaver, ASP.NET, MVC 3, MVC 4, ASP, HTML, DHTML, XHTML, XML, CSS, AJAX, Web Services, WCF, RWD(HTML5, CSS3). | 
