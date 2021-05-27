@@ -25,17 +25,18 @@ Highly experienced .NET Solutions Architect with strong technical skills in C#, 
 
 
 ### Technical Skills
-| Skill Area        | Description          | 
-|:---:|:---:|
-| Programming Languages | C#, VB,VB.NET, C, C++, HTML, DHTML, CSS, XML, XSL, XSLT, T-SQL, PL/SQL | 
-|  Scripting Languages/Libraries |  JavaScript, Angular, Knockout, jQuery, PowerShell, Bash | 
-| Web Technologies  | Dreamweaver, ASP.NET, MVC 3, MVC 4, ASP, HTML, DHTML, XHTML, XML, CSS, AJAX, Web Services, WCF, RWD(HTML5, CSS3). | 
-| Web Server | IIS 6.0/7.0/7.5 | 
-| Technologies | .Net Framework 3/0/3.5/4.0/4.5 | 
-| Development Tools | Visual Studio .NET 2005 - 2019 | 
-| Databases | SQL Server 2005/2008R2/2012, MS Access 20, Oracle 10g | 
-| Tools | Microsoft Office, Microsoft Visio, Subversion, Team Foundation Server | 
-| Operating Systems |  Window Server 2003/2008R2/2012/2016, Windows XP, Windows 7, Windows 8, Windows 10 | 
+
+| Skill Area                     | Description                                                                                                       | 
+|:---                            |:---                                                                                                               |
+| Programming Languages          | C#, VB,VB.NET, C, C++, HTML, DHTML, CSS, XML, XSL, XSLT, T-SQL, PL/SQL                                            |  
+|  Scripting Languages/Libraries |  JavaScript, Angular, Knockout, jQuery, PowerShell, Bash                                                          | 
+| Web Technologies               | Dreamweaver, ASP.NET, MVC 3, MVC 4, ASP, HTML, DHTML, XHTML, XML, CSS, AJAX, Web Services, WCF, RWD(HTML5, CSS3). | 
+| Web Server                     | IIS 6.0/7.0/7.5                                                                                                   | 
+| Technologies                   | .Net Framework 3/0/3.5/4.0/4.5                                                                                    | 
+| Development Tools              | Visual Studio .NET 2005 - 2019                                                                                    | 
+| Databases                      | SQL Server 2005/2008R2/2012, MS Access 20, Oracle 10g                                                             |  
+| Tools                          | Microsoft Office, Microsoft Visio, Subversion, Team Foundation Server                                             | 
+| Operating Systems              |  Window Server 2003/2008R2/2012/2016, Windows XP, Windows 7, Windows 8, Windows 10                                | 
 
 ### Education
 _Bachelor’s Degree_, B.S Computer Science from **George Mason University**, Fairfax, VA.
