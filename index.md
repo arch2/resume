@@ -42,7 +42,50 @@ Highly experienced .NET Solutions Architect with strong technical skills in C#, 
 _Bachelor’s Degree_, B.S Computer Science from **George Mason University**, Fairfax, VA.
 
 ### Professional Experience
-**InterImage Inc.** - Arlington, VA - September 2017-Present
+**NIH (National Institute of Health) - NIAID (National Institute of Allergy and Infectious Diseases) ** - Rockville, MD - July 2021-Present
+_.Net Engineer/Architect_
+#### Project: NPMP (NIH Property Management Portal)
+As team solutions architect, helped maintain as well as update the NPMP application to production. The application streamlines the process of users updating their accountability records for any property they have been assigned. Developed the application to utilize SSO to connect to an internal LOB application for user authentication. 
+
+**Responsibilites:**
+
+* Designed and created system architecture adhering to best practices and standards.
+* Utilized internal SSO hookup to seamlessly authenticate with other applications.
+* Created stored procedures that communicated across multiple databases to performing CRUD operations on demand for information requested by application.
+* Worked to maintain with dev and operations an effective CI/CD pipeline for the application.
+
+**Technologies:** 
+
+TFS, Entity Framework, SQL Server, HTML, CSS, JavaScript, MVC, WebAPI.
+
+#### Project: AMBIS (Acquisition Management Budget Information System)
+As architect support, helped design as well as update the NPMP application to production. The application streamlines the process of users updating their accountability records for any budgetary records they have been assigned. Developed the application to utilize SSO to connect to an internal LOB application for user authentication. 
+
+**Responsibilites:**
+
+* Designed and created system architecture adhering to best practices and standards.
+* Utilized internal SSO hookup to seamlessly authenticate with other applications.
+* Created stored procedures that communicated across multiple databases to performing CRUD operations on demand for information requested by application.
+* Worked to maintain with dev and operations an effective CI/CD pipeline for the application.
+
+**Technologies:** 
+
+TFS, Angular, Typescript, GIT, Entity Framework, SQL Server, HTML, CSS, JavaScript, MVC, WebAPI.
+
+#### Project: CERP (Critical Equipment Replacement Program)
+As on call developer support, helped update and maintain the CERP application to production. The application streamlines the process of users updating the status of vital equipment used out in the field. Developed the application to utilize SSO to connect to an internal LOB application for user authentication. 
+
+**Responsibilites:**
+
+* Utilized internal SSO hookup to seamlessly authenticate with other applications.
+* Created stored procedures that communicated across multiple databases to performing CRUD operations on demand for information requested by application.
+* Worked to maintain with dev and operations an effective CI/CD pipeline for the application.
+
+**Technologies:** 
+
+TFS, Entity Framework, SQL Server, HTML, CSS, JavaScript, MVC, WebAPI.
+
+**InterImage Inc.** - Arlington, VA - September 2017-June 7th 2021
 _.Net & Angular Engineer/Architect_
 #### Project: Report 39 Initial
 As team solutions architect, developed the Report 39 Initial application from design to production that streamlines the process of users to send forms holding information and data on railway incidents. Developed the application to utilize SSO to connect to an internal LOB application for user authentication. Created the custom feature for the application to submit forms that are completed by the submitter via a service to another application to further process the form. 
