@@ -42,7 +42,7 @@ Highly experienced .NET Solutions Architect with strong technical skills in C#, 
 _Bachelor’s Degree_, B.S Computer Science from **George Mason University**, Fairfax, VA.
 
 ### Professional Experience
-**NIH (National Institute of Health) - NIAID (National Institute of Allergy and Infectious Diseases) ** - Rockville, MD - July 2021-Present
+**NIH \(National Institute of Health\) - NIAID \(National Institute of Allergy and Infectious Diseases\) ** - Rockville, MD - July 2021-Present
 _.Net Engineer/Architect_
 #### Project: NPMP (NIH Property Management Portal)
 As team solutions architect, helped maintain as well as update the NPMP application to production. The application streamlines the process of users updating their accountability records for any property they have been assigned. Developed the application to utilize SSO to connect to an internal LOB application for user authentication. 
